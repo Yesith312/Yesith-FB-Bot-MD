@@ -1,15 +1,19 @@
-https://photos.app.goo.gl/iZ2ERnQP7Px2BWSu5
 # 👑 DUEÑO
 <a
-href="https://github.com/Yesith312"><img src="https://github.com/David-OFC.png" width="120" height="120" alt="David"/></a>
-> Tecnologi (s) 2024 **[Yesith312](https://github.com/Yesith312/Yesith-FB-Bot-MD)**.
+href="https://github.com/Yesith312"><img 
+> Tecnologi (s) 2024 **[Yesith312]
+> (https://github.com/Yesith312/Yesith-FB-Bot-MD)**.
+> 
 >Gmail:Yesithvilla39@gmail.com
 > DISPONIBLE EN:
  TERMUX
 > ♻️ App Termux 👇
 > https://f-droid.org/es/packages/com.termux/
+> 
 > 👾 INSTALACIÓN MANUAL- TERMUX👾
+> 
 > ESCRIBE LOS COMANDOS UNO A UNO
+> 
 > cd && termux-setup-storage
 > apt-get update -y && apt-get upgrade -y
 > pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
