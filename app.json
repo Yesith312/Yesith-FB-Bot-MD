@@ -1,0 +1,38 @@
+{
+  "name": "Yesith-FB-Bot MD",
+  "website": "https://github.com/Yesith312",
+  "description": "Bot do Whatsapp",
+  "repository": "https://github.com/Yesith312/Yesith-FB-Bot-MD",
+  "logo": "https://github.com/Yesith312/Yesith-FB-Bot-MD",
+  "success_url": "https://github.com/Yesith312/Yesith-FB-Bot-MD",
+  "keywords": [
+    "nodejs",
+    "heroku",
+    "bot",
+    "bots",
+    "bot",
+    "spanish",
+    "whatsapp",
+    "termux",
+    "shadow",
+    "multi-device",
+    "md",
+    "whatsappbot",
+    "oficial",
+    "whatsapp-md",
+    "yoshikobot-md",
+    "yoshikobot-md",
+    "yoshikobot-md"],
+  "image": "heroku/nodejs",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+    }    
+ ]
+}
